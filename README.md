@@ -89,7 +89,8 @@ This project explores how Autoencoders (AE) and Variational Autoencoders (VAE) c
 The entire project is documented in the following presentation:
 
 📂 **[Google Colab Notebook](https://colab.research.google.com/drive/1raVa0_2TtQY7wO0hku1kk--urz-vJAaa?usp=sharing)**  
-📄 **[PPT File](""C:\Users\PADMALATHA\Latent-Space-Representation-using-AE-and-VAE.pptx"")**
+📄 **[View PPT on Google Drive](https://drive.google.com/file/d/1raVa0_2TtQY7wO0hku1kk--urz-vJAaa/view?usp=sharing)**
+
 
 ---
 
